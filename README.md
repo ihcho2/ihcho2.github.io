@@ -7,7 +7,9 @@ b { color: Blue }
 customb { color: #006699 }
 </style>
 
-
+ul li {
+  overflow: hidden;
+}
 
 # Welcome!
 I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
