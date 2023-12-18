@@ -7,6 +7,10 @@ b { color: Blue }
 customb { color: #006699 }
 </style>
 
+<div style='text-align: right;'>
+  Test
+</div>
+
 # Welcome!
 I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
 - Creating and analyzing novel deep learning model architectures
@@ -21,8 +25,7 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
   - Seoul National University
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br>
-<customb>EMNLP 2023 Findings</customb></br>
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br><customb>EMNLP 2023 Findings</customb></br>
 <u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
 2. 
 
