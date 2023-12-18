@@ -17,12 +17,13 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 ## Education
 - Ph.D. student in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
   - University of Illinois at Urbana-Champaign								       		
-- B.S. in Electrical and Computer Enginering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
+- B.S. in Electrical and Computer Enginering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
   - Seoul National University
 
 
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br> <customb>EMNLP 2023 Findings</customb> <br><u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
-2. 
-
+1. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals
+2. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br>
+   <customb>EMNLP 2023 Findings</customb> <br>
+   <u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier 
