@@ -16,6 +16,13 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Leveraging prompt engineering for model compression
 - Improving language model compression techniques
 
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
+
 ## Education
 - Ph.D. student in Computer Science <div align="right">Test</div>
   - University of Illinois at Urbana-Champaign								       		
