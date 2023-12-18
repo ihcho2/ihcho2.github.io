@@ -7,9 +7,7 @@ b { color: Blue }
 customb { color: #006699 }
 </style>
 
-<div style='text-align: right;'>
-  Test
-</div>
+
 
 # Welcome!
 I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
@@ -19,13 +17,12 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science <p align="right">Aug 2021 - Current</p> 
+- Ph.D. student in Computer Science <div style='text-align: right;'>Test</div>
   - University of Illinois at Urbana-Champaign								       		
 - B.S. in Electrical and Computer Enginering <p align="right">Mar 2013 - Feb 2021</p>  
   - Seoul National University
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br><customb>EMNLP 2023 Findings</customb></br>
-<u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br> <customb>EMNLP 2023 Findings</customb> <br><u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
 2. 
 
