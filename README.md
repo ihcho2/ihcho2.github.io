@@ -21,6 +21,13 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
   - University of Illinois at Urbana-Champaign								       		
 - B.S. in Electrical and Computer Enginering <p align="right">Mar 2013 - Feb 2021</p>  
   - Seoul National University
+ 
+|    |                     |
+| -----: | -----------------------------: |
+|  first |                       ABC 123. |
+| second |                       XYZ 456. |
+|  third | Some longer text here ABC 123. |
+
 
 ## Publications
 1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br> <customb>EMNLP 2023 Findings</customb> <br><u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
