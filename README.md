@@ -4,6 +4,7 @@ o { color: Orange }
 g { color: Green }
 c { color: Cyan }
 b { color: Blue }
+customb { color: #006699 }
 </style>
 
 # Welcome!
@@ -14,8 +15,10 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science | University of Illinois at Urbana-Champaign (_May 2022_)								       		
-- B.S. in Electrical and Computer Enginering	| Seoul National University (_December 2019_)	
+- Ph.D. student in Computer Science
+  - @ University of Illinois at Urbana-Champaign (Aug 2021 - Current)								       		
+- B.S. in Electrical and Computer Enginering
+  - @ Seoul National University (Mar 2013 - Feb 2021)	
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token <b>(EMNLP 2023 Findings)</b>
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token <customb>(EMNLP 2023 Findings)</customb>
