@@ -11,13 +11,13 @@ customb { color: #006699 }
 I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
 - Creating and analyzing novel deep learning model architectures
 - Analyzing and enhancing training strategies in the Mixture-of-Experts framework
-- Leveraging prompt engineering for model compression
 - Improving language model compression techniques
+- Leveraging prompt engineering for model compression
 
 ## Education
-- University of Illinois at Urbana-Champaign &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
+- University of Illinois at Urbana-Champaign &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
   - Ph.D. student in Computer Science								       		
-- Seoul National University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
+- Seoul National University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
   - B.S. in Electrical and Computer Enginering
 
 
