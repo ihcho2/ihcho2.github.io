@@ -15,7 +15,7 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science $~~~$ Test
+- Ph.D. student in Computer Science &nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
   - University of Illinois at Urbana-Champaign								       		
 - B.S. in Electrical and Computer Enginering  
   - Seoul National University
