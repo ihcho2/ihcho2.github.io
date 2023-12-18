@@ -17,7 +17,7 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 ## Education
 - Ph.D. student in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
   - University of Illinois at Urbana-Champaign								       		
-- B.S. in Electrical and Computer Enginering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
+- B.S. in Electrical and Computer Enginering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
   - Seoul National University
 
 
