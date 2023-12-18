@@ -1,5 +1,5 @@
 # Welcome!
-<font size="5">I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: </font>
+<font size="3">I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: </font>
 - Creating and analyzing novel deep learning model architectures
 - Analyzing and enhancing training strategies in the Mixture-of-Experts framework
 - Leveraging prompt engineering for model compression
