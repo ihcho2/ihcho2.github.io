@@ -15,14 +15,14 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science <style>Aug 2021 - Current {text-align: right}</style>
+- Ph.D. student in Computer Science <p align="right">Aug 2021 - Current</p> 
   - University of Illinois at Urbana-Champaign								       		
-- B.S. in Electrical and Computer Enginering <div style="text-align: right"> Mar 2013 - Feb 2021 </div>
+- B.S. in Electrical and Computer Enginering <p align="right">Mar 2013 - Feb 2021</p>  
   - Seoul National University
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token\
-<customb>EMNLP 2023 Findings</customb>\
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br>
+<customb>EMNLP 2023 Findings</customb></br>
 <u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
 2. 
 
