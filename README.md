@@ -15,10 +15,10 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science
-  - @ University of Illinois at Urbana-Champaign (Aug 2021 - Current)								       		
-- B.S. in Electrical and Computer Enginering
-  - @ Seoul National University (Mar 2013 - Feb 2021)	
+- Ph.D. student in Computer Science <div style="text-align: right"> Aug 2021 - Current </div>
+  - University of Illinois at Urbana-Champaign								       		
+- B.S. in Electrical and Computer Enginering <div style="text-align: right"> Mar 2013 - Feb 2021 </div>
+  - Seoul National University
 
 ## Publications
 1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token <customb>(EMNLP 2023 Findings)</customb>
