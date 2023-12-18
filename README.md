@@ -18,6 +18,9 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 
 <ul>
   <li>Ph.D. student in Computer Science <div align="right">Test</div></li>
+  <ul>
+    <li>University of Illinois at Urbana-Champaign</li>
+  </ul>
 </ul>
 
 ## Education
