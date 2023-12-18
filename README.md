@@ -13,13 +13,10 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Leveraging prompt engineering for model compression
 - Improving language model compression techniques
 
-### Education
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-> University of Illinois at Urbana-Champaign (2021.8 ~ Current)
-> -  Ph.D. Student in Computer Science
-
-> Seoul National University (2013.3 ~ 2021.2)
-> - B.S. in Electrical and Computer Engineering
-
-### Publications
+## Publications
 1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token <b>(EMNLP 2023 Findings)</b>
