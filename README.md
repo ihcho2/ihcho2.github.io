@@ -21,4 +21,7 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
   - Seoul National University
 
 ## Publications
-1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token <customb>(EMNLP 2023 Findings)</customb>
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token 
+<customb>EMNLP 2023 Findings</customb>
+<u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier
+
