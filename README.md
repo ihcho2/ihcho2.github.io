@@ -1,7 +1,12 @@
-# Portfolio
+# Welcome!
+I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
+- Creating and analyzing novel deep learning model architectures
+- Analyzing and enhancing training strategies in the Mixture-of-Experts framework
+- Leveraging prompt engineering for model compression
+- Improving language model compression techniques
 
-## About me
+# Education
+> University of Illinois at Urbana-Champaign 
 
-## Education
-
-## Publications
+# Publications
+1. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token
