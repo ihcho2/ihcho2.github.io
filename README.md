@@ -15,15 +15,16 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Improving language model compression techniques
 
 ## Education
-- Ph.D. student in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
-  - University of Illinois at Urbana-Champaign								       		
-- B.S. in Electrical and Computer Enginering  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
-  - Seoul National University
+- University of Illinois at Urbana-Champaign Ph.D. student in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
+  - Ph.D. student in Computer Science								       		
+- Seoul National University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
+  - B.S. in Electrical and Computer Enginering
 
 
 
 ## Publications
-1. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals
-2. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br>
-   <customb>EMNLP 2023 Findings</customb> <br>
-   <u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier 
+1. Prompting for Mixture-of-Experts: A Prompt-based Mixture-of-Experts Framework for Stylized Image Captioning
+2. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals<br>
+   <customb>Under review</customb>  
+3. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br>
+   <customb>EMNLP 2023 Findings</customb> <br><u>Ikhyun Cho</u>, Yoonhwa Jung, and Julia Hockenmaier 
