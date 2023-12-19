@@ -20,7 +20,9 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Seoul National University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
   - B.S. in Electrical and Computer Enginering
 
-
+## Fellowships
+- University of Illinois at Urbana-Champaign
+  - CS Ph.D. Fellowship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2023 - May 2024
 
 ## Publications
 1. Prompting for Model Compression: A Novel Transformer-based Model Compression Technique via Prompt Learning and Parameter Sharing<br><customb>In preparation (estimated date: 2.15.2024)</customb><br>**Ikhyun Cho** and Julia Hockenmaier
