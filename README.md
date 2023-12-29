@@ -12,10 +12,8 @@ I am a third-year Ph.D. student in Computer Science at the University of Illinoi
 - Creating and analyzing novel deep learning model architectures
 - Analyzing and enhancing the Mixture-of-Experts framework
 - Designing _user-controllable_ deep learning models
-
-Recently interested in:
-- Machine unlearning
 - Model compression
+- Machine unlearning
 
 ## Education
 - University of Illinois at Urbana-Champaign &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
