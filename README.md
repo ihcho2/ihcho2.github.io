@@ -11,7 +11,7 @@ customb { color: #006699 }
 I am a third-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around model architecture engineering, including: 
 - Creating and analyzing novel deep learning model architectures
 - Analyzing and enhancing the Mixture-of-Experts framework
-- Designing _user-controllable_ deep learning models
+- Designing user-controllable deep learning models
 - Developing novel (model compression, machine unlearning, etc.) techniques.
 
 ## Education
