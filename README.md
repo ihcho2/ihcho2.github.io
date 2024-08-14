@@ -10,7 +10,7 @@ customb { color: #006699 }
 # Welcome!
 I am a fourth-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
 - Creating and analyzing novel deep learning model architectures
-- Improving the in-context learning framework using large language models
+- Improving the in-context learning framework using large language models (LLMs)
 - Enhancing spatial reasoning capabilities of LLMs
 
 ## Education
