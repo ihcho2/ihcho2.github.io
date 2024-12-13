@@ -25,7 +25,7 @@ I am a fourth-year Ph.D. student in Computer Science at the University of Illino
   - CS Ph.D. Fellowship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2024 - May 2025
 
 ## Publications
-1. Anonymous <br><customb>Submitted to ARR 2024 December</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+1. Anonymous <br><customb>Submitted to ARR 2024 December</customb><br><customb>Received a meta review of 4!</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 2. Anonymous <br><customb>Submitted to ARR 2024 October</customb><br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
 3. Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance <br><customb>EMNLP 2024 Findings</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
 4. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals<br><a href="https://www.sciencedirect.com/science/article/pii/S092658052400219X" style="color: #006699;">Elsevier: Automation in Construction</a><br>Yoonhwa Jung, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
