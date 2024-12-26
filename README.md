@@ -8,7 +8,7 @@ customb { color: #006699 }
 </style>
 
 # Welcome!
-I am a fourth-year Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
+I am a fourth-year Ph.D. candidate in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
 - Improving LLMs with structured reasoning
 - Enhancing LLM interpretability
 - Creating and analyzing novel deep learning model architectures
