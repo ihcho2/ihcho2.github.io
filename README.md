@@ -24,9 +24,9 @@ I am a fourth-year Ph.D. candidate in Computer Science at the University of Illi
   - CS Ph.D. Fellowship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2023 - May 2024
   - CS Ph.D. Fellowship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2024 - May 2025
   - Conference Presentation Awards for Graduate Students
-  -   FA24
+    - FA24
   - Excellent TA Award
-  -   FA23, FA24
+    - FA23, FA24
 
 ## Publications
 1. Anonymous <br><customb>Committed to NAACL 2025 (Meta Review Score: 4!)</customb><br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
