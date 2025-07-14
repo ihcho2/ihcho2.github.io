@@ -29,8 +29,8 @@ I am a fourth-year Ph.D. candidate in Computer Science at the University of Illi
   - FA23, FA24, SP25
 
 ## Publications
-1. Anonymous <br><customb>ARR-May -> Under Review at EMNLP 2025</customb><br><customb>Overall Assessment: 3.5/3.0/3.0</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
-2. Anonymous <br><customb>ARR-Feb -> Under Review at EMNLP 2025</customb><br><customb>Overall Assessment: 3.5/3.0/3.0</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
+1. Anonymous <br><customb>(ARR-May) Under Review at EMNLP 2025</customb><br><customb>Overall Assessment: 3.5/3.0/3.0</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+2. Anonymous <br><customb>(ARR-Feb) Under Review at EMNLP 2025</customb><br><customb>Overall Assessment: 3.5/3.0/3.0</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
 3. Analyzing Multilingualism in Large Language Models with Sparse Autoencoders <br><customb>🎉 COLM 2025</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 4. The Power of Bullet Lists: Reducing Mistakes in Large Language Models with a Simple Primer <br><customb>🎉 NAACL 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
 5. Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance <br><a href="https://aclanthology.org/2024.findings-emnlp.554/" style="color: #006699;">🎉 EMNLP 2024 Findings</a><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
