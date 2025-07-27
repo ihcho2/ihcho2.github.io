@@ -9,9 +9,9 @@ customb { color: #006699 }
 
 # Welcome!
 I am a fourth-year Ph.D. candidate in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
-- Improving our understanding of the inner workings of LLMs (e.g., mechanistic interpretability).
-- Applying SAEs for practical purposes.
-- Creating and analyzing novel deep learning model architectures (e.g., mixture-of-experts).
+- Mechanistic Interpretability.
+- Creatively repurposing interpretability techniques (e.g., SAEs) to achieve practical benefits.
+- Designing and analyzing novel deep learning architectures, with a current focus on mixture-of-experts models.
 
 ## Education
 - University of Illinois at Urbana-Champaign &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
