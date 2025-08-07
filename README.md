@@ -23,6 +23,7 @@ I am a fourth-year Ph.D. candidate in Computer Science at the University of Illi
 - CS Ph.D. Fellowship (UIUC)
   - Sep 2023 - May 2024
   - Sep 2024 - May 2025
+  - Sep 2025 - May 2026
 - Conference Presentation Awards for Graduate Students (UIUC)
   - FA24
 - Excellent TA Award (UIUC)
