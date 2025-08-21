@@ -8,9 +8,9 @@ customb { color: #006699 }
 </style>
 
 # Welcome!
-I am a fourth-year Ph.D. candidate in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
+I am a fifth-year Ph.D. candidate in Computer Science at the University of Illinois at Urbana-Champaign advised by Prof. Julia Hockenmaier. My research primarily centers around: 
 - Mechanistic Interpretability.
-- Creatively repurposing interpretability techniques (e.g., SAEs) to achieve practical benefits.
+- Creative repurposing of interpretability methods (e.g., SAEs) to deliver practical, real-world gains.
 - Designing and analyzing novel deep learning architectures, with a current focus on mixture-of-experts models.
 
 ## Education
