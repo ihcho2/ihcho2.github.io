@@ -30,16 +30,17 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - FA23, FA24, SP25
 
 ## Publications
-1. Anonymous<br><customb>Under Review at EACL 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
-2. Toward Efficient Sparse Autoencoder-Guided Steering for Improved In-Context Learning in Large Language Models<br><customb>🎉 EMNLP 2025 Main</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
-3. On the Versatility of Sparse Autoencoders for In-Context Learning<br><customb>🎉 EMNLP 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
-4. Analyzing Multilingualism in Large Language Models with Sparse Autoencoders <br><customb>🎉 COLM 2025</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
-5. The Power of Bullet Lists: Reducing Mistakes in Large Language Models with a Simple Primer <br><customb>🎉 NAACL 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
-6. Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance <br><a href="https://aclanthology.org/2024.findings-emnlp.554/" style="color: #006699;">🎉 EMNLP 2024 Findings</a><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
-7. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br><a href="https://aclanthology.org/2023.findings-emnlp.572/" style="color: #006699;">🎉 EMNLP 2023 Findings</a><br><ins>Ikhyun Cho</ins>, Yoonhwa Jung, and Julia Hockenmaier<br><br>
-8. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals<br><a href="https://www.sciencedirect.com/science/article/pii/S092658052400219X" style="color: #006699;">🎉 Elsevier 2024: Automation in Construction</a><br>Yoonhwa Jung, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
-9. Pea-KD: Parameter-efficient and accurate Knowledge Distillation on BERT<br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263592" style="color: #006699;">🎉 PLOS ONE 2022</a><br><ins>Ikhyun Cho</ins> and U Kang<br><br>
-10. SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression<br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265621" style="color: #006699;">🎉 PLOS ONE 2022</a><br>Tairen Piao, <ins>Ikhyun Cho</ins>, and U Kang
+1. Anonymous #1<br><customb>Under Review at EACL 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+2. Anonymous #2<br><customb>Under Review at EACL 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+3. Toward Efficient Sparse Autoencoder-Guided Steering for Improved In-Context Learning in Large Language Models<br><customb>🎉 EMNLP 2025 Main</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+4. On the Versatility of Sparse Autoencoders for In-Context Learning<br><customb>🎉 EMNLP 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
+5. Analyzing Multilingualism in Large Language Models with Sparse Autoencoders <br><customb>🎉 COLM 2025</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+6. The Power of Bullet Lists: Reducing Mistakes in Large Language Models with a Simple Primer <br><customb>🎉 NAACL 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
+7. Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance <br><a href="https://aclanthology.org/2024.findings-emnlp.554/" style="color: #006699;">🎉 EMNLP 2024 Findings</a><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
+8. SIR-ABSC: Incorporating Syntax into RoBERTa-based Sentiment Analysis Models with a Special Aggregator Token<br><a href="https://aclanthology.org/2023.findings-emnlp.572/" style="color: #006699;">🎉 EMNLP 2023 Findings</a><br><ins>Ikhyun Cho</ins>, Yoonhwa Jung, and Julia Hockenmaier<br><br>
+9. VisualSiteDiary: A Detector-Free Vision-Language Transformer Model for Captioning Photologs for Daily Construction Reporting and Image Retrievals<br><a href="https://www.sciencedirect.com/science/article/pii/S092658052400219X" style="color: #006699;">🎉 Elsevier 2024: Automation in Construction</a><br>Yoonhwa Jung, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+10. Pea-KD: Parameter-efficient and accurate Knowledge Distillation on BERT<br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263592" style="color: #006699;">🎉 PLOS ONE 2022</a><br><ins>Ikhyun Cho</ins> and U Kang<br><br>
+11. SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression<br><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265621" style="color: #006699;">🎉 PLOS ONE 2022</a><br>Tairen Piao, <ins>Ikhyun Cho</ins>, and U Kang
 
 ## Unfortunate Publications 😭
 1. Duplicate-and-Share: A Novel Approach to Efficient Vision Transformer Unlearning<br><ins>Ikhyun Cho</ins>, Changyeon Park, and Julia Hockenmaier<br><br>
