@@ -20,7 +20,7 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - B.S. in Electrical and Computer Enginering
 
 ## Fellowships and Awards
-- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 ***Lifetime*** TA Award</a> (UIUC, one student per year), 2025
+- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 *Lifetime TA Award*</a> (UIUC, one student per year), 2025
 - Excellent TA Award (UIUC)
   - FA23, FA24, SP25
 - Conference Presentation Awards for Graduate Students (UIUC)
