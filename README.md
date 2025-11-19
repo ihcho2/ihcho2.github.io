@@ -20,14 +20,15 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - B.S. in Electrical and Computer Enginering
 
 ## Fellowships and Awards
+- *Lifetime* TA Award (UIUC, one student per year), 2025
+- Excellent TA Award (UIUC)
+  - FA23, FA24, SP25
+- Conference Presentation Awards for Graduate Students (UIUC)
+  - FA24
 - CS Ph.D. Fellowship (UIUC)
   - Sep 2023 - May 2024
   - Sep 2024 - May 2025
   - Sep 2025 - May 2026
-- Conference Presentation Awards for Graduate Students (UIUC)
-  - FA24
-- Excellent TA Award (UIUC)
-  - FA23, FA24, SP25
 
 ## Publications
 1. Anonymous #1<br><customb>Under Review at EACL 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
