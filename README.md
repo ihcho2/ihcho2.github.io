@@ -20,7 +20,7 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - B.S. in Electrical and Computer Enginering
 
 ## Fellowships and Awards
-- *Lifetime* TA Award (UIUC, one student per year), 2025
+- ***Lifetime*** TA Award (UIUC, one student per year), 2025
 - Excellent TA Award (UIUC)
   - FA23, FA24, SP25
 - Conference Presentation Awards for Graduate Students (UIUC)
