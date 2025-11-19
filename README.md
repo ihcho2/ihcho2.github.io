@@ -15,12 +15,13 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
 
 ## Education
 - University of Illinois at Urbana-Champaign &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2021 ~ Current
-  - Ph.D. student in Computer Science								       		
+  - Ph.D. Candidate in Computer Science								       		
 - Seoul National University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2013 ~ Feb 2021
   - B.S. in Electrical and Computer Enginering
+  - Research Intern @SNU Data Mining Lab
 
 ## Fellowships and Awards
-- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 *Lifetime TA Award*</a> (UIUC, one student per year), 2025
+- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 *Lifetime TA Award 2025*</a> (UIUC, one student per year)
 - Excellent TA Award (UIUC)
   - FA23, FA24, SP25
 - Conference Presentation Awards for Graduate Students (UIUC)
