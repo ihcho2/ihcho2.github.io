@@ -32,8 +32,8 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - Sep 2025 - May 2026
 
 ## Publications
-1. Anonymous #3<br><customb>Under Review at ARR-May (OA: 4 / 3.5 / 3)</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-2. Anonymous #2<br><customb>Under Review at ARR-May</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+1. Anonymous #2<br><customb>Under Review at ARR-May</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+2. Anonymous #3<br><customb>ARR-March (OA: 4 / 3.5 / 3)</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 3. Anonymous #1<br><customb>ARR-March</customb><br>Sewoong Lee, Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
 4. Understanding Primacy Effects in Large Language Models with Sparse Autoencoders<br><customb>🎉 COLM 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 5. Toward Efficient Sparse Autoencoder-Guided Steering for Improved In-Context Learning in Large Language Models<br><customb>🎉 EMNLP 2025 Main</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
