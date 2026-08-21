@@ -32,11 +32,11 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - Sep 2025 - May 2026
 
 ## Publications
-1. Anonymous #5<br><customb>ARR-Aug</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-2. Anonymous #4<br><customb>ARR-Aug</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-3. Anonymous #3<br><customb>ARR-May (Meta: 3.5)</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-4. Anonymous #2<br><customb>ARR-May (Meta: 3.0)</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
-5. Anonymous #1<br><customb>ARR-March (Meta: 3.0)</customb><br>Sewoong Lee, Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+1. Anonymous #4<br><customb>ARR-Aug</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+2. Anonymous #3<br><customb>ARR-Aug</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+3. Anonymous #2<br><customb>ARR-May (Meta: 3.0)</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+4. Anonymous #1<br><customb>ARR-March (Meta: 3.0)</customb><br>Sewoong Lee, Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
+5. Features in Motion: Periodicity, Homeostasis, and Redistribution in LLM Few-Shot Prompting<br><customb>🎉 EMNLP 2026 Main</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 6. Understanding Primacy Effects in Large Language Models with Sparse Autoencoders<br><customb>🎉 COLM 2026</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 7. Toward Efficient Sparse Autoencoder-Guided Steering for Improved In-Context Learning in Large Language Models<br><customb>🎉 EMNLP 2025 Main</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 8. On the Versatility of Sparse Autoencoders for In-Context Learning<br><customb>🎉 EMNLP 2025 Findings</customb><br><ins>Ikhyun Cho</ins>, Gaeul Kwon, and Julia Hockenmaier<br><br>
