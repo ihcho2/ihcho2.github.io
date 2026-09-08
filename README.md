@@ -32,8 +32,8 @@ I am a fifth-year Ph.D. candidate in Computer Science at the University of Illin
   - Sep 2025 - May 2026
 
 ## Publications
-1. Anonymous #3<br><customb>ARR-Aug</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-2. Anonymous #2<br><customb>ARR-Aug</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+1. Anonymous #2<br><customb>ARR-Aug</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+2. Anonymous #1<br><customb>ARR-Aug</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 3. Analyzing Multilingual Parametric Knowledge Retrieval with Sparse Autoencoders<br><customb>🎉 AACL 2026 Findings</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
 4. Features in Motion: Periodicity, Homeostasis, and Redistribution in LLM Few-Shot Prompting<br><customb>🎉 EMNLP 2026 Main Conference</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 5. A Survey on the Linear Representation Hypothesis<br><customb>🎉 EMNLP 2026 BlackboxNLP</customb><br>Sewoong Lee, Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
