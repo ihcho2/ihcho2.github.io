@@ -21,7 +21,7 @@ I am a final-year Ph.D. candidate in Computer Science at the University of Illin
   - Research Intern @SNU Data Mining Lab
 
 ## Fellowships and Awards
-- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 *Lifetime TA Award 2025*</a> (UIUC, one student per year)
+- <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/outstanding-teaching-assistants-lifetime" style="color: #006699;">🎉 *Lifetime TA Award 2025 (UIUC)*</a> (TA of the Year)
 - Excellent TA Award (UIUC)
   - FA23, FA24, SP25
 - Conference Presentation Awards for Graduate Students (UIUC)
