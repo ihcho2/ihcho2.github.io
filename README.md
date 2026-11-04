@@ -32,7 +32,7 @@ I am a final-year Ph.D. candidate in Computer Science at the University of Illin
   - Sep 2025 - May 2026
 
 ## Publications
-1. The Geometric Hub Hypothesis: Revealing Global Geometric Rules in Transformers Through Reactivity<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+1. The Geometric Hub Hypothesis: Toward a Unified Feature Geometry of Transformers<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 2. Anonymous #3<br><customb>Under Review at ARR-Oct</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, Rajarshi Haldar, Risham Sidhu, and Julia Hockenmaier<br><br>
 3. Anonymous #2<br><customb>Under Review at EACL 2027</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 4. Anonymous #1<br><customb>Under Review at EACL 2027</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
