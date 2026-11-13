@@ -33,7 +33,7 @@ I am a final-year Ph.D. candidate in Computer Science at the University of Illin
 
 ## Publications
 1. The Geometric Synchronization Hypothesis: Revealing Global Geometric Rules in Transformers Through Reactivity<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
-2. Value Channel-Selective Differential Writing in Grouped-Query Attention<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
+2. Share-and-Flip: How Grouped-Query Attention Implements Efficient Differential Writing<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 3. Anonymous #3<br><customb>Under Review at ARR-Oct</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, Rajarshi Haldar, Risham Sidhu, and Julia Hockenmaier<br><br>
 4. Why Raw Sparse Autoencoder Activations Can Be Misleading in LLM Few-Shot Prompting<br><customb>🎉 EACL 2027 Findings</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 5. LLM Judges Can Encode More About Summary Quality Than Their Scores Report<br><customb>🎉 EACL 2027 Findings </customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
