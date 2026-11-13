@@ -34,8 +34,8 @@ I am a final-year Ph.D. candidate in Computer Science at the University of Illin
 ## Publications
 1. The Geometric Hub Hypothesis: Toward a Unified Feature Geometry of Transformers<br><customb>Preprint</customb><br><ins>Ikhyun Cho</ins> and Julia Hockenmaier<br><br>
 2. Anonymous #3<br><customb>Under Review at ARR-Oct</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, Rajarshi Haldar, Risham Sidhu, and Julia Hockenmaier<br><br>
-3. Anonymous #2<br><customb>Under Review at EACL 2027</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
-4. Anonymous #1<br><customb>Under Review at EACL 2027</customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+3. Why Raw Sparse Autoencoder Activations Can Be Misleading in LLM Few-Shot Prompting<br><customb>🎉 EACL 2027 Findings</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
+4. LLM Judges Can Encode More About Summary Quality Than Their Scores Report<br><customb>🎉 EACL 2027 Findings </customb><br>Rajarshi Haldar, <ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 5. Analyzing Multilingual Parametric Knowledge Retrieval with Sparse Autoencoders<br><customb>🎉 AACL 2026 Findings</customb><br>Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
 6. Features in Motion: Periodicity, Homeostasis, and Redistribution in LLM Few-Shot Prompting<br><customb>🎉 EMNLP 2026 Main Conference</customb><br><ins>Ikhyun Cho</ins>, Sewoong Lee, and Julia Hockenmaier<br><br>
 7. A Survey on the Linear Representation Hypothesis<br><customb>🎉 EMNLP 2026 BlackboxNLP</customb><br>Sewoong Lee, Marc E. Canby, <ins>Ikhyun Cho</ins>, and Julia Hockenmaier<br><br>
